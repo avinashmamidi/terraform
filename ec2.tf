@@ -7,7 +7,4 @@ resource "aws_instance" "ec2_demo" {
   }
 }
 
-data "aws_ssm_parameter" "Testpa" {
-  name = "/path1/path2/Param"
-}
 
