@@ -1,5 +1,5 @@
 instance_type = "t2.micro"
 region="us-west-2"
 profile="jespo"
-ami_id="ami-066333d9c572b0680"
+ami_id="ami-00ee4df451840fa9d"
 name = "test"
