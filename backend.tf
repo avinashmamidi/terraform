@@ -4,7 +4,7 @@
     key    = "avinash/s3file-3.tfstate"
     region = "us-west-2"
     profile = "jespo"
-dynamodb= "firstprojecttable"
+dynamodb_table= "firstprojecttable"
    }
  }
 
