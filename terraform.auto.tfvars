@@ -1,5 +1,4 @@
 instance_type = "t2.micro"
 region="us-west-2"
-profile="jespo"
-ami_id="ami-0cea098ed2ac54925"
-name = "test"
+ami_id="ami-076bca9dd71a9a578"
+name = "test-ec2-createdby-jenkins-job"
